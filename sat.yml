@@ -6,6 +6,6 @@ spring:
       uri: mongodb+srv://sat:qwer@sat.4gmfwlp.mongodb.net/sat?retryWrites=true
 sat:
   data:
-    prefix: /Users/ampersandor/data/sat/test
+    prefix: /Users/ampersandor/data/sat
   core:
     url: http://43.201.149.14:8000
